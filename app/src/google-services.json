@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471871844877",
+    "firebase_url": "https://scribbleio-ea1d1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "scribbleio-ea1d1",
+    "storage_bucket": "scribbleio-ea1d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471871844877:android:507642356fa6124a0f5b44",
+        "android_client_info": {
+          "package_name": "com.rahuls.scribbleio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471871844877-b7ti93pr97kobu79q1tq4iqohbfcjjcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgsUlVNQVzP6NikwbjPfg57MSM5CLIGEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471871844877-b7ti93pr97kobu79q1tq4iqohbfcjjcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
